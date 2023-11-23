@@ -7,7 +7,6 @@ Choose between exporting followers or following and specify the destination path
 
 ## Usage
 1. Run the Script:
-Run the Script:
 'python export.py'
 2. Enter the AniList "userid"
 3. Enter "following" or "followers" for either one you want to export
