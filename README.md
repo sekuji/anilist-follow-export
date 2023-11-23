@@ -10,4 +10,6 @@ Choose between exporting followers or following and specify the destination path
 `python export.py`
 2. Enter the AniList `userid`
 3. Enter `following` or `followers` for either one you want to export
-4. Enter the directory path to save exported list in txt file.
+4. Enter the directory path to save exported list in txt file,
+for example:
+`C:\Users\User\Desktop\Example`
